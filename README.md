@@ -18,3 +18,4 @@ Ratings are out of 5.
 |C++   |4|
 |Python|4|
 |Go    |2|
+|Perl  |2|
