@@ -14,8 +14,9 @@ Ratings are out of 5.
 
 |Language|Rating|
 ------|:----:
-|C     |4|
-|C++   |4|
-|Python|4|
-|Go    |2|
-|Perl  |2|
+|C      |4|
+|C++    |4|
+|Python |4|
+|Go     |2|
+|Perl   |2|
+|Fortran|2|
