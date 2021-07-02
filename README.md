@@ -23,3 +23,4 @@ Ratings are out of 5.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clin1234&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![CodeWars](https://www.codewars.com/users/clin1234/badges/large)
