@@ -1,3 +1,4 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Hello there. (Obvious Star Wars reference) 👋
 
 - 🔭 I’m currently working on building an interpreter for a C-like language.
@@ -25,3 +26,5 @@ Ratings are out of 5.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clin1234&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![CodeWars](https://www.codewars.com/users/clin1234/badges/large)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="charlie-lin-8a2a30196" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/charlie-lin-8a2a30196?trk=profile-badge">Charlie Lin</a></div>
