@@ -13,6 +13,11 @@
 
 Ratings are out of 5.
 
+## Miscellaneous Certifications
+
+* [Image Processing with Python](https://www.datacamp.com/statement-of-accomplishment/track/0903c21f7f062f4de6ac39c080734596366bcadc)
+
+
 |Language|Rating|
 ------|:----:
 |C      |4|
