@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning algorithmic analysis
 - 👯 I’m looking to collaborate on machine learning projects, preferably those that use scikit-learn.
-- 🤔 I’m looking for help with pointers to assmebly programming
+- 🤔 I’m looking for help with pointers to assembly programming
 - 💬 Ask me about intricate details of the C++ standard library. (Not a joke.)
 - 📫 How to reach me: clin@rollins.edu
 - ⚡ Fun fact: favorite show in the 2020 US Presidential Election - _Designated Survivor_.
