@@ -3,14 +3,11 @@
 - 🌱 I’m currently learning algorithmic analysis
 - 👯 I’m looking to collaborate on machine learning projects, preferably those that use scikit-learn.
 - 🤔 I’m looking for help with pointers to assembly programming
-- 💬 Ask me about intricate details of the C++ standard library. (Not a joke.)
 - 📫 How to reach me: clin@rollins.edu
 - ⚡ Fun fact: favorite show in the 2020 US Presidential Election - _Designated Survivor_.
+- :gasp: Would someone please not make btrfs *buggy?!?!*
 - LinkedIn profile: [here](https://www.linkedin.com/in/charlie-lin-8a2a30196)
 
-## Proficiencies:
-
-Ratings are out of 5.
 
 ## Miscellaneous Certifications
 
@@ -19,16 +16,16 @@ Ratings are out of 5.
 * [Virtual Experience: JPMorgan & Chase](https://insidesherpa.s3.amazonaws.com/completion-certificates/JP%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan%20Chase_vre2XwfPK4iuAFTxZ_completion_certificate.pdf)
 * [TensorFlow](https://www.linkedin.com/feed/update/urn:li:activity:6846920524858298368/)
 
+## Self-rated proficiencies (out of 5)
+|Rating|Languages and frameworks|
+|---|---|
+|4|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width=20% height=20%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width=20% height=20%/>|
+|3| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width=20% height=20%/>|
+|2| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg " alt="Docker" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width=20% height=20%/>|
+|1| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width=20% height=20%/>|
 
-|Language|Rating|
-------|:----:
-|C      |4|
-|C++    |4|
-|Python |4|
-|Go     |2|
-|Perl   |2|
-|Fortran|2|
-|Typescript|2|
+## Hobbies
+Shogi, Axis and Allies
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clin1234&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
