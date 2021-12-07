@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with pointers to assembly programming
 - 📫 How to reach me: clin@rollins.edu
 - ⚡ Fun fact: favorite show in the 2020 US Presidential Election - _Designated Survivor_.
-- :gasp: Would someone please not make btrfs *buggy?!?!*
+- :grimacing: Would someone please not make btrfs *buggy?!?!*
 - LinkedIn profile: [here](https://www.linkedin.com/in/charlie-lin-8a2a30196)
 
 
