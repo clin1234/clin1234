@@ -1,6 +1,5 @@
 # Hello there. (Obvious Star Wars reference) 👋
 
-- 🌱 I’m currently learning algorithmic analysis
 - 👯 I’m looking to collaborate on machine learning projects, preferably those that use scikit-learn.
 - 🤔 I’m looking for help with pointers to assembly programming
 - 📫 How to reach me: clin@rollins.edu
@@ -26,6 +25,7 @@
 
 ## Hobbies
 Shogi, Axis and Allies
+* https://lishogi.org
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clin1234&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
