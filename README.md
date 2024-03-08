@@ -1,9 +1,8 @@
 # Hello there. (Obvious Star Wars reference) 👋
 
-- 👯 I’m looking to collaborate on machine learning projects, preferably those that use scikit-learn.
-- 🤔 I’m looking for help with pointers to assembly programming
-- 📫 How to reach me: clin@rollins.edu
-- ⚡ Fun fact: favorite show in the 2020 US Presidential Election - _Designated Survivor_.
+- 🤔 I’m looking for help with pointers to assembly programming, specifically x86_64, ARMv8, and POWER10 arches.
+- 📫 How to reach me: tuug@gmx.us
+- ⚡ Fun fact: my favorite TV show overall is _Designated Survivor_.
 - :grimacing: Would someone please not make btrfs *buggy?!?!*
 - LinkedIn profile: [here](https://www.linkedin.com/in/charlie-lin-8a2a30196)
 
@@ -18,10 +17,10 @@
 ## Self-rated proficiencies (out of 5)
 |Rating|Languages and frameworks|
 |---|---|
-|4|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width=20% height=20%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width=20% height=20%/>|
-|3| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width=20% height=20%/>|
-|2| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width=20% height=20%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  alt=".NET" width=20% height=20%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width=20% height=20%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width=20% height=20% alt="Unity"/>|
-|1| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width=20% height=20%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width=20% height=20%/>|
+|4|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width=10% height=10%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width=10% height=10%/>|
+|3| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width=10% height=10%/>|
+|2| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" width=10% height=10%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"  alt=".NET" width=10% height=10%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width=10% height=10%/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width=10% height=10% alt="Unity"/>|
+|1| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" width=10% height=10%/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg"  alt="Ansible" width=10% height=10%  />|
 
 ## Hobbies
 Shogi, Axis and Allies
