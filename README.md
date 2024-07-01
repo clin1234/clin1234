@@ -25,9 +25,9 @@ Shogi, Axis and Allies
 * https://lishogi.org
 
 Also I compile Rust, Python, and Go packages from Git repos using pre-release toolchains almost daily
-* Rust: [1.79](https://releases.rs/docs/1.79.0/), with `cargo install --git <repo url>` and [cargo-update](https://github.com/nabijaczleweli/cargo-update)
+* Rust: [1.81](https://releases.rs/docs/1.81.0/), with `cargo install --git <repo url>` and [cargo-update](https://github.com/nabijaczleweli/cargo-update)
 * Python: [3.13](https://docs.python.org/3.13/whatsnew/3.13.html), using `pip install -e git+https://github.com/<org>/<pkg>#egg=<pkg>`
-* Go: stable toolchain, with `go install <repo url>@m`, where `m` is either master or main and `<repo url>` is stripped of https:// prefix [gup](https://github.com/nao1215/gup)
+* Go: [1.23](https://tip.golang.org/doc/go1.23), with `go install <repo url>@m`, where `m` is either master or main and `<repo url>` is stripped of https:// prefix [gup](https://github.com/nao1215/gup)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
