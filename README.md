@@ -25,11 +25,12 @@ Shogi, Axis and Allies
 * https://lishogi.org
 
 Also I compile Rust, Python, and Go packages from Git repos using pre-release toolchains almost daily
-* Rust: [1.81](https://releases.rs/docs/1.81.0/), with `cargo install --git <repo url>` and [cargo-update](https://github.com/nabijaczleweli/cargo-update)
-* Python: [3.13](https://docs.python.org/3.13/whatsnew/3.13.html), using `pip install -e git+https://github.com/<org>/<pkg>#egg=<pkg>`
-* Go: [1.23](https://tip.golang.org/doc/go1.23), with `go install <repo url>@m`, where `m` is either master or main and `<repo url>` is stripped of https:// prefix [gup](https://github.com/nao1215/gup)
+* Rust: [1.86](https://releases.rs/docs/1.81.0/), with `cargo install --git <repo url>` and [cargo-update](https://github.com/nabijaczleweli/cargo-update)
+* Python: [3.14](https://docs.python.org/3.13/whatsnew/3.13.html), using `pip install -e git+https://github.com/<org>/<pkg>#egg=<pkg>`
+* Go: [1.24](https://tip.golang.org/doc/go1.23), with `go install <repo url>@m`, where `m` is either master or main and `<repo url>` is stripped of https:// prefix [gup](https://github.com/nao1215/gup)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clin1234&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=clin1234&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![CodeWars](https://www.codewars.com/users/clin1234/badges/large)
