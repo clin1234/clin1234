@@ -84,7 +84,8 @@
 </p>
 
 <details>
-  <h2> <i>PSSSTTTT.....</i> Would you like to earn money on the side with your wide variety of skills, not just technical? </h2>
+  <summary><i>PSSSTTTT.....</i></summary>
+  <h2>  Would you like to earn money on the side with your wide variety of skills, not just technical? </h2>
   
 * Mercor: https://t.mercor.com/UWIP2
 * Outlier: https://app.outlier.ai/expert/referrals/link/9NA9f4aKeJIJHTsBo4skqFHNPRc
