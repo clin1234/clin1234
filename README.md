@@ -82,3 +82,15 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/clin1234/clin1234/refs/heads/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<details>
+  <h2> <i>PSSSTTTT.....</i> Would you like to earn money on the side with your wide variety of skills, not just technical? </h2>
+  
+* Mercor: https://t.mercor.com/UWIP2
+* Outlier: https://app.outlier.ai/expert/referrals/link/9NA9f4aKeJIJHTsBo4skqFHNPRc
+* Contra: https://on.contra.com/ktrkfm
+* Handshake: https://joinhandshake.com/move-program/referral?referralCode=1BA38C&utm_source=referral
+* Coinbase: https://coinbase.com/join/FNF68UM?src=referral-link
+
+</details>
+
