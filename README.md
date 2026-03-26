@@ -93,6 +93,7 @@
 * Contra: https://on.contra.com/ktrkfm
 * Handshake: https://joinhandshake.com/move-program/referral?referralCode=1BA38C&utm_source=referral
 * Coinbase: https://coinbase.com/join/FNF68UM?src=referral-link
+* Google Workspaces: https://referworkspace.app.goo.gl/Wkgh
 
 </details>
 
